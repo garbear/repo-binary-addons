@@ -1,1 +1,0 @@
-game.libretro.fba https://github.com/kodi-game/game.libretro.fba master
