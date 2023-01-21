@@ -1,1 +1,0 @@
-screensaver.pingpong https://github.com/xbmc/screensaver.pingpong Nexus

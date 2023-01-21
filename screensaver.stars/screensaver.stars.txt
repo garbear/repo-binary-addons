@@ -1,1 +1,0 @@
-screensaver.stars https://github.com/xbmc/screensaver.stars Nexus
